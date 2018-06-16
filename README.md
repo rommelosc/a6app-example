@@ -1,4 +1,7 @@
-# A4app
+# A6app
+
+Este proyecto fue realizado a partir del video [Angular 4 In 60 Minutes](https://www.youtube.com/watch?v=KhzGSHNhnbI).
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
